@@ -1,0 +1,287 @@
+[
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/input/input.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/input/input.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/input/input.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/input/y4m.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/input/y4m.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/input/y4m.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/input/yuv.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/input/yuv.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/input/yuv.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/output/output.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/output/output.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/output/output.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/output/raw.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/output/raw.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/output/raw.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/output/reconplay.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/output/reconplay.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/output/reconplay.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/output/y4m.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/output/y4m.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/output/y4m.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/output/yuv.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/output/yuv.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/output/yuv.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/cli.dir/x265.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/x265.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/x265.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/analysis.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/analysis.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/analysis.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/search.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/search.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/search.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/bitcost.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/bitcost.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/bitcost.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/motion.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/motion.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/motion.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -Wno-strict-overflow -o CMakeFiles/encoder.dir/slicetype.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/slicetype.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/slicetype.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/frameencoder.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/frameencoder.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/frameencoder.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/framefilter.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/framefilter.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/framefilter.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/level.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/level.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/level.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/nal.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/nal.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/nal.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/sei.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/sei.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/sei.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/sao.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/sao.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/sao.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/entropy.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/entropy.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/entropy.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/dpb.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/dpb.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/dpb.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/ratecontrol.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/ratecontrol.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/ratecontrol.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/reference.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/reference.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/reference.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/encoder.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/encoder.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/encoder.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/api.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/api.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/api.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/encoder",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized -o CMakeFiles/encoder.dir/weightPrediction.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/encoder/weightPrediction.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/encoder/weightPrediction.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/primitives.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/primitives.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/primitives.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/pixel.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/pixel.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/pixel.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/dct.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/dct.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/dct.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/lowpassdct.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/lowpassdct.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/lowpassdct.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/ipfilter.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/ipfilter.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/ipfilter.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/intrapred.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/intrapred.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/intrapred.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/loopfilter.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/loopfilter.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/loopfilter.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/constants.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/constants.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/constants.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-narrowing -o CMakeFiles/common.dir/cpu.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/cpu.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/cpu.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -DX265_VERSION=3.2 -o CMakeFiles/common.dir/version.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/version.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/version.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/threading.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/threading.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/threading.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/threadpool.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/threadpool.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/threadpool.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/wavefront.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/wavefront.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/wavefront.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/md5.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/md5.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/md5.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/bitstream.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/bitstream.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/bitstream.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/yuv.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/yuv.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/yuv.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/shortyuv.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/shortyuv.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/shortyuv.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/picyuv.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/picyuv.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/picyuv.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/common.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/common.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/common.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -DHAVE_STRTOK_R=1 -o CMakeFiles/common.dir/param.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/param.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/param.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/frame.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/frame.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/frame.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/framedata.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/framedata.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/framedata.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/cudata.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/cudata.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/cudata.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/slice.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/slice.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/slice.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/lowres.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/lowres.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/lowres.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/piclist.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/piclist.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/piclist.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/predict.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/predict.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/predict.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/scalinglist.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/scalinglist.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/scalinglist.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/quant.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/quant.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/quant.cpp"
+},
+{
+  "directory": "/home/wyn/HEVC/x265/build/common",
+  "command": "/usr/bin/g++  -DEXPORT_C_API=1 -DHAVE_INT_TYPES_H=1 -DHIGH_BIT_DEPTH=0 -DX265_ARCH_X86=1 -DX265_DEPTH=8 -DX265_NS=x265 -DX86_64=1 -D__STDC_LIMIT_MACROS=1 -I/home/wyn/HEVC/x265/x265_3.2/source/. -I/home/wyn/HEVC/x265/x265_3.2/source/common -I/home/wyn/HEVC/x265/x265_3.2/source/encoder -I/home/wyn/HEVC/x265/build  -g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -o CMakeFiles/common.dir/deblock.cpp.o -c /home/wyn/HEVC/x265/x265_3.2/source/common/deblock.cpp",
+  "file": "/home/wyn/HEVC/x265/x265_3.2/source/common/deblock.cpp"
+}
+]

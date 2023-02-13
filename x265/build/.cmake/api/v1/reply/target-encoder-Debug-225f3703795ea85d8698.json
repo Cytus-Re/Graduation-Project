@@ -1,0 +1,500 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/analysis.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/search.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/bitcost.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/motion.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/slicetype.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/frameencoder.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/framefilter.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/level.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/nal.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/sei.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/sao.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/entropy.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/dpb.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/ratecontrol.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/reference.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/encoder.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/api.cpp.o"
+		},
+		{
+			"path" : "encoder/CMakeFiles/encoder.dir/weightPrediction.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"encoder/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 471,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "EXPORT_C_API=1"
+				},
+				{
+					"define" : "HAVE_INT_TYPES_H=1"
+				},
+				{
+					"define" : "HIGH_BIT_DEPTH=0"
+				},
+				{
+					"define" : "X265_ARCH_X86=1"
+				},
+				{
+					"define" : "X265_DEPTH=8"
+				},
+				{
+					"define" : "X265_NS=x265"
+				},
+				{
+					"define" : "X86_64=1"
+				},
+				{
+					"define" : "__STDC_LIMIT_MACROS=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/x265_3.2/source/."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/x265_3.2/source/common"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/x265_3.2/source/encoder"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/build"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				5,
+				8,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				35
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g   -Wall -Wextra -Wshadow -Wno-class-memaccess -std=gnu++98 -fPIC -Wno-array-bounds -ffast-math -mstackrealign -fno-exceptions -Wno-uninitialized"
+				},
+				{
+					"fragment" : "-Wno-strict-overflow"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "EXPORT_C_API=1"
+				},
+				{
+					"define" : "HAVE_INT_TYPES_H=1"
+				},
+				{
+					"define" : "HIGH_BIT_DEPTH=0"
+				},
+				{
+					"define" : "X265_ARCH_X86=1"
+				},
+				{
+					"define" : "X265_DEPTH=8"
+				},
+				{
+					"define" : "X265_NS=x265"
+				},
+				{
+					"define" : "X86_64=1"
+				},
+				{
+					"define" : "__STDC_LIMIT_MACROS=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/x265_3.2/source/."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/x265_3.2/source/common"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/x265_3.2/source/encoder"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/wyn/HEVC/x265/build"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				10
+			]
+		}
+	],
+	"id" : "encoder::@372742a3ab0a8675e45e",
+	"name" : "encoder",
+	"paths" : 
+	{
+		"build" : "encoder",
+		"source" : "encoder"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				36
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				5,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				35
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "x265.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/analysis.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/analysis.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/search.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/search.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/bitcost.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/bitcost.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/rdcost.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/motion.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/motion.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "encoder/slicetype.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/slicetype.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/frameencoder.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/frameencoder.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/framefilter.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/framefilter.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/level.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/level.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/nal.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/nal.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/sei.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/sei.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/sao.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/sao.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/entropy.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/entropy.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/dpb.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/dpb.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/ratecontrol.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/ratecontrol.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/reference.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/reference.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/encoder.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/encoder.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/api.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "encoder/weightPrediction.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "encoder/svt.h",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

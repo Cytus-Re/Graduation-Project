@@ -1,0 +1,5 @@
+yuv_files = [
+'/home/wyn/HEVC/Pre_process/Output/DucksTakeOff_1280x720_50_500_01.yuv',
+'/home/wyn/HEVC/Pre_process/Output/DucksTakeOff_1280x720_50_500_02.yuv',
+'/home/wyn/HEVC/Pre_process/Output/DucksTakeOff_1280x720_50_500_03.yuv',
+]

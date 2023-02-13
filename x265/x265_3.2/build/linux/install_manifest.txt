@@ -1,0 +1,7 @@
+/home/wyn/HEVC/x265/build_libs/lib/libx265.a
+/home/wyn/HEVC/x265/build_libs/include/x265.h
+/home/wyn/HEVC/x265/build_libs/include/x265_config.h
+/home/wyn/HEVC/x265/build_libs/lib/libx265.so.179
+/home/wyn/HEVC/x265/build_libs/lib/libx265.so
+/home/wyn/HEVC/x265/build_libs/lib/pkgconfig/x265.pc
+/home/wyn/HEVC/x265/build_libs/bin/x265
